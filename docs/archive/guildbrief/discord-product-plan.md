@@ -1,3 +1,5 @@
+> **Withdrawn on 2026-09-29 at the user's direction.** Historical research only. This product, roadmap, advertising and targets are inactive. No replacement has been selected.
+
 # GuildBrief: product and engineering plan
 
 Research baseline: September 29, 2026. Working name only; domain, trademark, package, and product-name availability have not been checked. This document specifies proposed work. It does not describe a deployed product, approved plugin, completed integration, or validated customer demand.
